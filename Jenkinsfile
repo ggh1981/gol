@@ -27,8 +27,8 @@ pipeline {
       //  bat 'xcopy /y C:\\jenkins_slave\\workspace\\GOL_Pipeline\\gameoflife-web\\target\\gameoflife.war "C:\\Program Files\\Apache Software Foundation\\Tomcat 7.0\\webapps"'
         //invoke command to start tomcat service      
       //  bat 'sc start Tomcat7'
-      }
-    } 
+     // }
+    //} 
 
     
   } 
